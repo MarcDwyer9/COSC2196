@@ -3,6 +3,8 @@ body{
 	margin-right: 100 px;
 	background: #333;
 	color: white;
-}header{
+}
+header{
 	text-align: center;
 }
+h1{text-align: center;}
