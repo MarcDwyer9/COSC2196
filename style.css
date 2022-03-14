@@ -1,8 +1,10 @@
 body{
 	margin-left: 100px;
-	margin-right: 200 px;
+	margin-right: 100 px;
 	background: #333;
 	color: white;
+	padding-left: 100px;
+	padding-right: 100px;
 }
 header{
 	text-align: center;
