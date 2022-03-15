@@ -15,6 +15,7 @@ header{
 }
 h1{text-align: center;
 	border-bottom: 10px solid;
+	border-bottom-width: 400px;
 	}
 a{
 	color: blue;
