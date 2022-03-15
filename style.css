@@ -16,8 +16,9 @@ header{
 }
 h1{text-align: center;
 	border-bottom: 10px solid;
-	
-	width: 20px 350px ;
+	margin-left: auto;
+	margin-right: auto;
+	width: 300px;
 	}
 a{
 	color: blue;
