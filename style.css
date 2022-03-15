@@ -10,9 +10,11 @@ header{
 	text-align: center;
 	margin: 10px;
 }
-h1{text-align: center;}
+h1{text-align: center;
+	border-bottom: 10px solid;
+	}
 a{
 	color: blue;
-	size: 20px;
+	font: 20px;
 	color: #32a89d;
 }
