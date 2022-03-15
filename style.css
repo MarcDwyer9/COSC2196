@@ -16,10 +16,10 @@ header{
 }
 h1{text-align: center;
 	border-bottom: 10px solid;
-	margin-left: 300px;
-	margin-right: 300px;
-	
-	
+	margin-left: 450px;
+	margin-right: 450px;
+	margin-top: 20px;
+	margin-bottom: 20px;
 	}
 a{
 	color: blue;
