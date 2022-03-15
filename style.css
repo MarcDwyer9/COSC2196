@@ -22,5 +22,19 @@ a{
 	text-align: center;
 }
 .column{
+	float: left;
+	width: 33.33%;
 	display: flex;
+}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.left, .right {
+  width: 25%;
+}
+
+.middle {
+  width: 50%;
 }
