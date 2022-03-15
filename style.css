@@ -25,8 +25,8 @@ a{
 	color: blue;
 	font-size: 20px;
 	color: #32a89d;
-	margin: auto;
 	text-align: center;
+	
 }
 .column{
 	float: left;
@@ -44,4 +44,10 @@ a{
 
 .middle {
   width: 50%;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
 }
